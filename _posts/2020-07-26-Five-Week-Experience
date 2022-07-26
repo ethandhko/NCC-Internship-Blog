@@ -4,6 +4,7 @@ layout: post
 description: A minimal example of using markdown with fastpages.
 categories: [markdown]
 title: Five Week Experience
+image: images/ncc.jpeg
 ---
 
 ## Week 1
@@ -40,7 +41,7 @@ To carry out this task, I began to learn how to use Pandas. Pandas is an applica
 In order to learn and get comfortable with Pandas' numerous commands, I created a Pandas command list that I uploaded in my previous blog, and on my [Google Site](https://sites.google.com/view/ncc-blog-ethan-ko/home).
 By learning how to use pandas to analyze data, I was able to spot patterns in data that I presented in my week 3 presentation.
 
-Overrall, this week consisted of exploratory data anlysis of unfamiliar datasets using Pandas.
+Overall, this week consisted of exploratory data anlysis of unfamiliar datasets using Pandas.
 
 ## Week 4
 
