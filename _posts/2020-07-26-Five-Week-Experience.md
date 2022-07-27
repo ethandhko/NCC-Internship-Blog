@@ -96,3 +96,56 @@ I will definitely be using this template once again if I make another data scien
 ## [Overall](https://docs.google.com/presentation/d/1RVoEcTvRu7Cc0Y63KmuHVtyYzm2Cd28j0QBeL_4fhYA/edit?usp=sharing)
 
 Throughout this internship, I have learned numerous new skills that I can translate into other areas of my academics.
+
+## What I learned
+
+Multi-Omics (Week 1)
+- I learned the importance of multi-omics in cancer research, and how to read its data.
+
+OmiEmbed (Week 2 ~)
+- Importance for machine learning
+
+Exploratory Data Analysis & Pandas (Week 3 ~)
+- Practice engaging in exploratory data analysis
+- Getting comfortable with Pandas
+- Creating my own blog post with Pandas commands using Jupyter Notebook
+
+Omics Playground (Week 4 ~)
+- How to upload files to Omics Playground.
+- Navigating and understanding visualizations.
+
+Fastpages (Week 5)
+- How to create my own repository on Github
+- reating my own blog post using markdown and jupyter notebook files.
+- Add images, notes, heading, links.
+
+## Key Takeaways
+
+Data Analysis
+- Using pandas to edit dataframes
+- Using Omics Playground to provide visualizations
+- Using OmiEmbed to display train test 
+
+Multi-Omics Understanding
+- Reading and understanding research papers and datasets around multi-omics
+- Will help me in my quantitative data analysis for my research paper.
+- Exposure to lots of different types of data.
+- Attempting to understand the data through exploratory analysis.
+- Assistance with applications such as Pandas and Omics Playground
+
+## Future Goals
+
+Research Paper
+- Engage in quantitative data analysis in my research paper.
+- Add visualizations to my paper.
+- Will strengthen my claims and findings.
+
+OmiEmbed Running
+- Solve roadblock I faced in week 5
+- Concatenation of dataframes and upload to OmiEmbed
+
+Machine Learning
+- Attempt to understand machine learning at a deeper level.
+- Will help me better navigate OmiEmbed for the future.
+
+
