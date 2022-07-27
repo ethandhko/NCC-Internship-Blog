@@ -7,9 +7,17 @@ title: Five Week Experience
 image: images/ncc.jpeg
 ---
 
+## About
+
+This blog post provides a brief overview of my five week experience in the NCC Internship program.
+I provide details of what I achieved each week, and overall takeaways from the experience as a whole.
+
+{% include info.html text="Each week has a seperate presentation to go with it. You can click the title of each week to be redirected to the presentation." %}
+
+
 ## [Week 1](https://docs.google.com/presentation/d/1B1If5Bvh-s6tBPojnhCGpyM8s_lRUj-QWLMT5C5Rnds/edit?usp=sharing)
 
-Now more than ever, multi-omics data has become imperative to understanding cancer and its mechanisms. 
+Now more than ever, `multi-omics data` has become imperative to understanding cancer and its mechanisms. 
 Therefore, week 1 was generally spent getting comfortable with the idea of proteomics and multi-omics data along with its implications on modern science.
 
 I spent a majority of my time attempting to understand what this type of data looked like, as I had never been exposed to it before.
@@ -85,6 +93,6 @@ I will definitely be using this template once again if I make another data scien
 
 ---
 
-## [Overall] (https://docs.google.com/presentation/d/1RVoEcTvRu7Cc0Y63KmuHVtyYzm2Cd28j0QBeL_4fhYA/edit?usp=sharing)
+## [Overall](https://docs.google.com/presentation/d/1RVoEcTvRu7Cc0Y63KmuHVtyYzm2Cd28j0QBeL_4fhYA/edit?usp=sharing)
 
 Throughout this internship, I have learned numerous new skills that I can translate into other areas of my academics.
