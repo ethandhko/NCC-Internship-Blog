@@ -32,6 +32,8 @@ I also began to branch out into my own reserach topic which surrounded cancer me
 I am currently writing and publishing a research paper on the effect of radiotherapy on distant metastsis in papillary thyroid cancer. 
 To connect my internship experience and my writing together, I decided that by engaging in multi-omics data analysis around cancer metastsis in thyroid cancer would be helpful to my research.
 
+---
+
 ## [Week 3](https://docs.google.com/presentation/d/10OcXNKOwkRgpm4Dtl4W-p-_doRcUtU3KTCY_ki_K_Cw/edit?usp=sharing)
 
 During Week 3, Mr.Kim gave us the task to engage in exploratory data anlysis for datasets from the PDC and a [Nature article](https://www.nature.com/articles/s41467-022-30342-3).
@@ -48,10 +50,11 @@ Omics Playground is a software that creates and displays efficient and clear vis
 However, the upload process for Omics Playground is rigorous, requiring sample and counts data in the form of .csv. 
 Majority of this week was spent attempting to upload CPTAC datasets to Omics Playground. Eventually, after several forms of data cleaning and editing, I was able to upload the CPTAC Glioblastoma dataset to Omics Playground (see screenshot below).
 
-In addition to uploading the data to Omics Playground, I documented my progress and provided a step-by-step guide to uploading the data on my week 4 presentation.
+In addition to uploading the data to Omics Playground, I documented my progress and provided a step-by-step guide to uploading the data on my week 4 presentation and in my [Google Site](https://sites.google.com/view/ncc-blog-ethan-ko/home).
 
 ![]({{ site.baseurl }}/images/omics.png "Omics Playground Data")
 
+---
 
 ## Week 5
 
@@ -64,3 +67,24 @@ After changing the values to all be positive, and analyzing the visuals on Omics
 
 I noticed that the updated data was much smoother in contrast between the original data that displays jagged changes in blue and red. After doing additional reserach, I was able to find that it is better to have all data values positive, as in some cases it provides more accurate visualizations.
 
+The second task I had was to combine all the CPTAC datasets together and run them through OmiEmbed. This is where I sadly ran into my one and only error of the week: concatenation error.
+
+![]({{ site.baseurl }}/images/error.png "Concatenation Error")
+
+Despite searching through numerous Stack Overflow forums and online tutorials, I wasnt' able to find a solution to this.
+Although the internship is ending, I am still determined to get the datasets working and be able to run them through OmiEmbed.
+
+The last and most grueling task I faced was this blog post.
+Before this week, I had no idea that blog posts in data science were this complicated to create. 
+
+I am currently using `fastpages` to create this blog. For this post, I am using a markdown format so that I can easily add text and images.
+For my Pandas Commands post, I used Jupyter Notebook so that I could display the input and output of the commands for readers. To make the post look cleaner, I used the collapse-output feature so that readers could choose to view the output of the commands if they wished to.
+
+Through numerous tutorials, trial and errors, and hours of confusion, I feel comfortale using fastpages to upload blog posts.
+I will definitely be using this template once again if I make another data science blog in the future.
+
+---
+
+## [Overall] (https://docs.google.com/presentation/d/1RVoEcTvRu7Cc0Y63KmuHVtyYzm2Cd28j0QBeL_4fhYA/edit?usp=sharing)
+
+Throughout this internship, I have learned numerous new skills that I can translate into other areas of my academics.
