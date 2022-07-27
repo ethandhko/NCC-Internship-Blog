@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: Overview of my five week experience in the NCC Internship program.
 categories: [markdown]
 title: Five Week Experience
 image: images/ncc.jpeg
