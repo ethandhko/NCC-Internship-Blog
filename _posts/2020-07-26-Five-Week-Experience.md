@@ -23,15 +23,18 @@ Therefore, week 1 was generally spent getting comfortable with the idea of prote
 I spent a majority of my time attempting to understand what this type of data looked like, as I had never been exposed to it before.
 It involved a lot of researaching, scrolling through data, and attempting to understand visualizations.
 
+![]({{ site.baseurl }}/images/one.png "cBioPortal Visualization")
+
 ---
 
 ## [Week 2](https://docs.google.com/presentation/d/1f1P7xcVEUgjvskjVmk88OkLYYI7-0to4qn3xFUEnHmc/edit?usp=sharing)
 
 Week 2 was when I really began diving deeper into data analysis.
 Through trial and error, I downloaded the `OmiEmbed` software onto my computer. This software assists with multi-task deep learning of datasets.
-The installation process was a lot more difficult than I had expected, as there were many supplementary softwares I needed to download, as well as errors that I ran into. Therefore, to help others out in their future OmiEmbed installation endeavors, I created a step-by-step guide on how to install the software on my [Google Site](https://sites.google.com/view/ncc-blog-ethan-ko/home).
 
-After installation, I tested out running the train_test files on my computer, which I was able to produce some visualizations with.
+The installation process was a lot more difficult than I had expected, as there were many supplementary softwares I needed to download, as well as errors that I ran into. Therefore, to help others in their future OmiEmbed installation endeavors, I created a step-by-step guide on how to install the software on my [Google Site](https://sites.google.com/view/ncc-blog-ethan-ko/home).
+
+After installation, I tested out running the train_test files on my computer, which I was able to produce some visualizations with on TensorBoard.
 Mr.Kim was able to teach me more about the importance of train and test files, and its importance for machine learning.
 ![]({{ site.baseurl }}/images/omi.png "OmiEmbed train_test Visualizations")
 
@@ -48,6 +51,8 @@ During Week 3, Mr.Kim gave us the task to engage in exploratory data anlysis for
 Firstly, I began to research what exploratory data anlysis was. I learned that it meant to expose yourself to unfamiliar data and attempt to understand it through investigating patterns, anomalies, and testing hypotheses.
 
 To carry out this task, I began to learn how to use `Pandas`. Pandas is an application that assists with data cleaning and manipulation. It also provides efficient visualizations of data.
+![]({{ site.baseurl }}/images/visual.png "Pandas Visualizations")
+
 In order to learn and get comfortable with Pandas' numerous commands, I created a Pandas command list that I uploaded in my previous blog, and on my [Google Site](https://sites.google.com/view/ncc-blog-ethan-ko/home).
 By learning how to use pandas to analyze data, I was able to spot patterns in data that I presented in my week 3 presentation. Though the analysis wasn't very deep or intricate, it was still a great introduction for me to learn more about exploratory data anlysis and its importance.
 
